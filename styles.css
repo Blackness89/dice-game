@@ -24,8 +24,10 @@ h1 {
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #138DD6;
+  text-shadow: 2px 0 #232931;
   font-family: 'Indie Flower', cursive;
+
 }
 
 img {
